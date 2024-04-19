@@ -27,14 +27,17 @@ DATA SCIENCE PROJECTS
   * Description: Used a public dataset to discover global trends in the COVID-19 pandemic from February 2020 to May 2022, relating to health issues, deaths, and survivors. Extracted data to observe the some of the highest populated countries, China, India, USA, Indonesia, Pakistan, Nigeria, and Brazil. Created visualizations for maps, bar graphs, line charts. 
 
 * Predicting Gun Violence Project, UNT
+  * Topics: Data science, machine learning, data pipelining, linear regression, computation, project management, R Language. 
   * Date: April 2023 – May 2023  
   *	Role: Data Engineer
   *	Description: Used R to discover where the highest and least areas of gun violence happen in America from 2014 to 2017, and accurately predicted areas with the greatest chance of attacks.
-o	Data science, machine learning, data pipelining, linear regression, computation, project management, R Language. 
-Tiny Library Database Project, UNT
-April 2023 – May 2023  
-•	Database Architect: Designed a relational database to store records of transactions and collections in a mid-size model public library using MySQL. The objective was to help create an appropriate database that a software system can use SQL to query and create useful information from the extensive collection of tables for the users.
-o	Data science, data warehousing, libraries, project management, SQL. 
+
+* Tiny Library Database Project, UNT
+  * Topics: Data science, data warehousing, libraries, project management, SQL. 
+  * Date: April 2023 – May 2023  
+  * Role: Database Architect
+  * Designed a relational database to store records of transactions and collections in a mid-size model public library using MySQL. The objective was to help create an appropriate database that a software system can use SQL to query and create useful information from the extensive collection of tables for the users.
+
 Predicting US House Prices Project, UNT
 March 2023 – April 2023 
 •	Data Engineer: Built machine learning models to predict US house prices using R. Created visualizations such as density plots, histograms, and bar charts. Performed statistical tests such as ANOVA and t-tests to test precision. Performed data analysis to gather statistical information.
