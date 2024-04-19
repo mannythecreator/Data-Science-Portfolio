@@ -50,7 +50,8 @@ DATA SCIENCE PROJECTS
   * Role: Python Developer
   * Description: Processed files to search for words entered by users and return frequency. Tokenized each word and removed stop words and punctuation to build an accurate array of the keywords in the document. 
 
-Blackjack Game Project, UNT
-February 2023 – March 2023 
-•	Python Developer: Recreated the popular card game, Blackjack. Continuously plays the game as long as the user wants. The computer serves as the dealer and the user is the player. Makes use of functions, loops, conditionals, and random numbers to deal new cards, track scores, and determine winners.
-o	Data science, software development, computation, modular programming, project management, Python. 
+* Blackjack Game Project, UNT
+  * Topics: Data science, software development, computation, modular programming, project management, Python. 
+  * Date: February 2023 – March 2023 
+  * Role: Python Developer
+  * Description: Recreated the popular card game, Blackjack. Continuously plays the game as long as the user wants. The computer serves as the dealer and the user is the player. Makes use of functions, loops, conditionals, and random numbers to deal new cards, track scores, and determine winners.
