@@ -9,27 +9,27 @@ DATA SCIENCE PROJECTS
   * Description: Computed the National Walkability Index Score for large metropolitan cities in Texas. The dataset used was from the US Environmental Protection Agency’s massive Smart Location Database of over 220,000 records. Extracted over 7,200 records containing data for Houston, Dallas-Fort Worth, and Austin. Processed data in Excel using functions, formulas, and charts to create valuable information and knowledge.
   
 * Natural Language Processor and Data Mining Project, UNT
-   * Topics: Data science, natural language processing, data mining, RapidMiner, large dataset, project management.
+   * Topics: Data science, natural language processing, data mining, RapidMiner, large datasets, project management.
    * Role: Data Scientist
    * Date: October 2023 – November 2023
    * Description: Created a natural language processor to determine the main factors employees at big tech companies find as benefits and disadvantages. Analyzed employee feedback. Utilized statistical analysis techniques to gain insight into key business problems. Discovered textual associations in the dataset using k-means clustering in data mining software, RapidMiner. Performed data cleaning and data analysis on a large dataset of over 4,300 records.
  
 * Data Analysis of Google Play Store Apps Project, UNT
-  * Topics: Data analysis, data visualization, project management, large dataset, Microsoft Excel. 
+  * Topics: Data analysis, data visualization, project management, large datasets, Microsoft Excel. 
   * Role: Data Analyst
   * Date: September 2023 – October 2023
   * Description: Created a data analysis project to discover trends in Google Play Store apps from 2010 to 2018 using a very large dataset of about 10,000 records. Utilized Excel to create visualizations such as bar graphs, line charts, pivot tables, tables, pie charts, and calendars. Scripted advanced Excel functions and formulas for time, date, searching, sorting, matching, retrieval, and statistics.
 
 * COVID-19 Exploratory Data Analysis Project, UNT
   * Topics: Data visualization, data analysis, knowledge discovery, project management, Tableau, health informatics. 
-  * Date: June 2023 – July 2023
   * Role: Data Analyst
-  * Description: Used a public dataset to discover global trends in the COVID-19 pandemic from February 2020 to May 2022, relating to health issues, deaths, and survivors. Extracted data to observe the some of the highest populated countries, China, India, USA, Indonesia, Pakistan, Nigeria, and Brazil. Created visualizations for maps, bar graphs, line charts. 
+  * Date: June 2023 – July 2023
+  * Description: Used a public dataset to discover global trends in the COVID-19 pandemic from February 2020 to May 2022, relating to health issues, deaths, and survivors. Extracted data to observe some of the highest populated countries, China, India, USA, Indonesia, Pakistan, Nigeria, and Brazil. Created visualizations for maps, bar graphs, line charts. 
 
 * Predicting Gun Violence Project, UNT
   * Topics: Data science, machine learning, data pipelining, linear regression, computation, project management, R Language. 
+  * Role: Data Engineer
   * Date: April 2023 – May 2023  
-  *	Role: Data Engineer
   *	Description: Used R to discover where the highest and least areas of gun violence happen in America from 2014 to 2017, and accurately predicted areas with the greatest chance of attacks.
 
 * Tiny Library Database Project, UNT
