@@ -45,10 +45,11 @@ DATA SCIENCE PROJECTS
   *	Description: Built machine learning models to predict US house prices using R. Created visualizations such as density plots, histograms, and bar charts. Performed statistical tests such as ANOVA and t-tests to test precision. Performed data analysis to gather statistical information.
 
 * Document Term Frequency Project, UNT
+  * Topics: Data science, software development, computation, natural language processing, project management, Python. 
   * Date: March 2023 – May 2023
   * Role: Python Developer
-  * Description: Processed files to search for words entered by users and return frequency. Tokenized each word and removed stop words and punctuation to build an accurate array of the key words in the document. 
-o	Data science, software development, computation, natural language processing, project management, Python. 
+  * Description: Processed files to search for words entered by users and return frequency. Tokenized each word and removed stop words and punctuation to build an accurate array of the keywords in the document. 
+
 Blackjack Game Project, UNT
 February 2023 – March 2023 
 •	Python Developer: Recreated the popular card game, Blackjack. Continuously plays the game as long as the user wants. The computer serves as the dealer and the user is the player. Makes use of functions, loops, conditionals, and random numbers to deal new cards, track scores, and determine winners.
