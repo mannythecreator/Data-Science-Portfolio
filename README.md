@@ -39,13 +39,15 @@ DATA SCIENCE PROJECTS
   * Description: Designed a relational database to store records of transactions and collections in a mid-size model public library using MySQL. The objective was to help create an appropriate database that a software system can use SQL to query and create useful information from the extensive collection of tables for the users.
 
 * Predicting US House Prices Project, UNT
+  * Topics: Data science, data pipelining, machine learning, data analysis, computation, project management, R Language. 
   * March 2023 – April 2023 
   *	Role: Data Engineer
   *	Description: Built machine learning models to predict US house prices using R. Created visualizations such as density plots, histograms, and bar charts. Performed statistical tests such as ANOVA and t-tests to test precision. Performed data analysis to gather statistical information.
-o	Data science, data pipelining, machine learning, data analysis, computation, project management, R Language. 
-Document Term Frequency Project, UNT
-March 2023 – May 2023 
-•	Python Developer: Processed files to search for words entered by users and return frequency. Tokenized each word and removed stop words and punctuation to build an accurate array of the key words in the document. 
+
+* Document Term Frequency Project, UNT
+  * Date: March 2023 – May 2023
+  * Role: Python Developer
+  * Description: Processed files to search for words entered by users and return frequency. Tokenized each word and removed stop words and punctuation to build an accurate array of the key words in the document. 
 o	Data science, software development, computation, natural language processing, project management, Python. 
 Blackjack Game Project, UNT
 February 2023 – March 2023 
