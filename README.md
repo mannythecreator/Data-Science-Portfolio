@@ -34,24 +34,24 @@ DATA SCIENCE PROJECTS
 
 * Tiny Library Database Project, UNT
   * Topics: Data science, data warehousing, libraries, project management, SQL. 
-  * Date: April 2023 – May 2023  
   * Role: Database Architect
+  * Date: April 2023 – May 2023 
   * Description: Designed a relational database to store records of transactions and collections in a mid-size model public library using MySQL. The objective was to help create an appropriate database that a software system can use SQL to query and create useful information from the extensive collection of tables for the users.
 
 * Predicting US House Prices Project, UNT
   * Topics: Data science, data pipelining, machine learning, data analysis, computation, project management, R Language. 
-  * Date: March 2023 – April 2023 
   *	Role: Data Engineer
+  * Date: March 2023 – April 2023 
   *	Description: Built machine learning models to predict US house prices using R. Created visualizations such as density plots, histograms, and bar charts. Performed statistical tests such as ANOVA and t-tests to test precision. Performed data analysis to gather statistical information.
 
 * Document Term Frequency Project, UNT
   * Topics: Data science, software development, computation, natural language processing, project management, Python. 
-  * Date: March 2023 – May 2023
   * Role: Python Developer
+  * Date: March 2023 – May 2023
   * Description: Processed files to search for words entered by users and return frequency. Tokenized each word and removed stop words and punctuation to build an accurate array of the keywords in the document. 
 
 * Blackjack Game Project, UNT
   * Topics: Data science, software development, computation, modular programming, project management, Python. 
-  * Date: February 2023 – March 2023 
   * Role: Python Developer
+  * Date: February 2023 – March 2023 
   * Description: Recreated the popular card game, Blackjack. Continuously plays the game as long as the user wants. The computer serves as the dealer and the user is the player. Makes use of functions, loops, conditionals, and random numbers to deal new cards, track scores, and determine winners.
