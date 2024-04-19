@@ -40,7 +40,7 @@ DATA SCIENCE PROJECTS
 
 * Predicting US House Prices Project, UNT
   * Topics: Data science, data pipelining, machine learning, data analysis, computation, project management, R Language. 
-  * March 2023 – April 2023 
+  * Date: March 2023 – April 2023 
   *	Role: Data Engineer
   *	Description: Built machine learning models to predict US house prices using R. Created visualizations such as density plots, histograms, and bar charts. Performed statistical tests such as ANOVA and t-tests to test precision. Performed data analysis to gather statistical information.
 
