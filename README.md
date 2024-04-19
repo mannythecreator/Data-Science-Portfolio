@@ -19,14 +19,17 @@ DATA SCIENCE PROJECTS
   * Date: September 2023 – October 2023
   * Role Data Analyst
   * Description: Created a data analysis project to discover trends in Google Play Store apps from 2010 to 2018 using a very large dataset of about 10,000 records. Utilized Excel to create visualizations such as bar graphs, line charts, pivot tables, tables, pie charts, and calendars. Scripted advanced Excel functions and formulas for time, date, searching, sorting, matching, retrieval, and statistics.
+
 * COVID-19 Exploratory Data Analysis Project, UNT
+  * Topics: Data visualization, data analysis, knowledge discovery, project management, Tableau, health informatics. 
   * June 2023 – July 2023
   * Role: Data Analyst
   * Description: Used a public dataset to discover global trends in the COVID-19 pandemic from February 2020 to May 2022, relating to health issues, deaths, and survivors. Extracted data to observe the some of the highest populated countries, China, India, USA, Indonesia, Pakistan, Nigeria, and Brazil. Created visualizations for maps, bar graphs, line charts. 
-o	Data visualization, data analysis, knowledge discovery, project management, Tableau, health informatics. 
-Predicting Gun Violence Project, UNT
-April 2023 – May 2023  
-•	Data Engineer: Used R to discover where the highest and least areas of gun violence happen in America from 2014 to 2017, and accurately predicted areas with the greatest chance of attacks.
+
+* Predicting Gun Violence Project, UNT
+  * Date: April 2023 – May 2023  
+  *	Role: Data Engineer
+  *	Description: Used R to discover where the highest and least areas of gun violence happen in America from 2014 to 2017, and accurately predicted areas with the greatest chance of attacks.
 o	Data science, machine learning, data pipelining, linear regression, computation, project management, R Language. 
 Tiny Library Database Project, UNT
 April 2023 – May 2023  
