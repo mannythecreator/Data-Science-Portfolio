@@ -4,7 +4,7 @@ DATA SCIENCE PROJECTS
 
 * Performance Dashboards of Cookies Co.
   * Topics: Microsoft Power BI, Business Intelligence, Data Visualization, Data Analysis, Data Cleaning, Business Reports
-  * Role: Business Analyst
+  * Role: Business Intelligence Analyst
   * Date: March 2024
   * Description: Used a public dataset to create intelligence of business metrics for a model sales company. Cleaned data to create a usable format and standardization. Created multiple dashboards using Microsoft Power BI organized by year and quarterly dividends.
  
