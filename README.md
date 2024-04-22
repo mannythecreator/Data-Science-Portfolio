@@ -1,6 +1,12 @@
 # My Data Science Projects Portfolio
 
 DATA SCIENCE PROJECTS
+
+* Performance Dashboards of Cookies Co.
+  * Topics: Microsoft Power BI, Business Intelligence, Data Visualization, Data Analysis, Data Cleaning, Business Reports
+  * Role: Business Analyst
+  * Date: March 2024
+  * Description: Used a public dataset to create intelligence of business metrics for a model sales company. Created multiple dashboards using Microsoft Power BI organized by year and quarterly dividends.
  
 * Data Analysis of National Walkability Index Project, UNT
   * Topics: Data analysis, knowledge discovery, data visualization, computation, project management, Microsoft Excel
